@@ -10,7 +10,7 @@
 
 ### Initial Analysis
 
-I downloded the Python script, the password, and the flag files.
+I downloaded the Python script, the password, and the flag files.
 
 
 ### Step 1: 
@@ -28,7 +28,7 @@ Based on the provided information, I replaced the placeholder values with the ac
 python ende.py -d flag.txt.en
 ```
 
-Then I entred the provided password. 
+Then I entered the provided password. 
 
 
 Flag 
