@@ -32,4 +32,4 @@ print("{picoCTF{gl17ch_m3_n07_}" + hex + "}")
 ```
 
 Flag 
-`picoCTF{picoCTF{gl17ch_m3_n07_a4392d2e}`
+`picoCTF{gl17ch_m3_n07_a4392d2e}`
