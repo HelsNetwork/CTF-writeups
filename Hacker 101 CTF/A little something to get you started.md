@@ -9,7 +9,7 @@
 
 ## Solution 
 
-### Step 1 
+### Flag0
 
 In the source code, you can find a URL to the background image. 
 
