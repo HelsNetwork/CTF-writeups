@@ -27,8 +27,3 @@ Finally, we just have to **cat** the file to retrieve the flag.
 ```bash
 cat static.ltdis.strings.txt | grep picoCTF[
 ```
-
-
-
-Flag 
-`picoCTF{d15a5m_t34s3r_ccb2b43e}`
