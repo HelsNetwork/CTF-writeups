@@ -15,10 +15,3 @@ Download the two provided files then run
 ```bash
 python code.py
 ```
-
-
-
-
-
-Flag 
-`picoCTF{c0dc3b00k_455157_7d102d71}`
