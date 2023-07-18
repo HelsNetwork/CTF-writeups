@@ -9,7 +9,3 @@
 ## Solution 
 
 Convert 0x3D  into decimal.
-
-
-Flag 
-`picoCTF{61}`
