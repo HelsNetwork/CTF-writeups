@@ -9,7 +9,3 @@
 ## Solution 
 
 Convert 0x70 into ASCII.
-
-
-Flag 
-`picoCTF{p}`
