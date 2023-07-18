@@ -9,16 +9,10 @@ But it doesn't speak English...
 
 ## Solution 
 
+### Step 1: 
 
 I ran the provided command on a terminal and got this list of decimals. 
 
 ![Screenshot from 2023-07-04 23-23-54](https://github.com/HelsNetwork/CTF-writeups/assets/87879515/0f880171-e2ec-4d4d-b67e-b6b2f731fa55)
 
 Then I converted the decimal to text.
-
-
-### Step 1: 
-
-
-Flag 
-`picoCTF{g00d_k1tty!_n1c3_k1tty!_d3dfd6df}`
