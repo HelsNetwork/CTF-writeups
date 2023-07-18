@@ -14,10 +14,3 @@ Download the file then use grep to retrieve the flag
 ```bash
 cat file | grep pico
 ```
-
-
-
-
-
-Flag 
-`picoCTF{grep_is_good_to_find_things_dba08a45}`
