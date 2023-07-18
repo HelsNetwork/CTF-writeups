@@ -23,7 +23,3 @@ To retrieve the flag we will use the `grep` command.
 cd big_zip_files
 grep -r "picoCTF" * 
 ```
-
-
-Flag 
-`picoCTF{gr3p_15_m4g1c_ef8790dc}`
