@@ -10,7 +10,3 @@ After unzipping the file and `cd` `tab` eleven times you'll find an ELF file, ex
 
 
 ![Screenshot from 2023-07-05 23-06-41](https://github.com/HelsNetwork/CTF-writeups/assets/87879515/fc3f84a0-1e2e-4482-91a3-8a67ccf10381)
-
-
-Flag 
-`picoCTF{l3v3l_up!_t4k3_4_r35t!_d32e018c}`
