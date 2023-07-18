@@ -14,6 +14,3 @@ Download and run the Python script.
 ```bash
 python runme.py
 ```
-
-Flag 
-`picoCTF{run_s4n1ty_run}`
