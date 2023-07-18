@@ -38,7 +38,3 @@ for i in pos_pw_list:
 
 
 `password = 8b95`
-
-
-Flag 
-`picoCTF{fl45h_5pr1ng1ng_cf341ff1}`
