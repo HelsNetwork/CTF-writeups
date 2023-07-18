@@ -21,7 +21,3 @@ We have a list of potential passwords, and our objective is to identify the corr
 
 
 `password = 2295`
-
-
-Flag 
-`picoCTF{m45h_fl1ng1ng_6f98a49f}`
