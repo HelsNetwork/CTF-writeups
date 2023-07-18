@@ -26,6 +26,3 @@ To retrieve the flag just repalce the message with the `print_flag` function.
 ![Screenshot from 2023-07-16 22-12-33](https://github.com/HelsNetwork/CTF-writeups/assets/87879515/8325b6d2-ed5a-4334-ac09-681359c22042)
 
 Run the script again and choose `b`.
-
-Flag 
-`picoCTF{7h3_r04d_l355_7r4v3l3d_aa2340b2}`
