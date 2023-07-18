@@ -30,10 +30,3 @@ Now run the program again
 `$ ./warm -h`
 
 ![Screenshot from 2023-07-04 22-34-12](https://github.com/HelsNetwork/CTF-writeups/assets/87879515/ca60e1d1-f83c-43ca-a4f0-eff5c9c65bf0)
-
-
-
-
-
-Flag 
-`picoCTF{b1scu1ts_4nd_gr4vy_18788aaa}`
