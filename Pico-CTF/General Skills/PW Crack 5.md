@@ -37,7 +37,3 @@ for i in dic:
 
 
 `password = eee0`
-
-
-Flag 
-`picoCTF{h45h_slng1ng_fffcda23}`
