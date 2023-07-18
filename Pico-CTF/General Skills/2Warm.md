@@ -9,7 +9,3 @@
 ## Solution 
 
 Convert 42  into binary.
-
-
-Flag 
-`picoCTF{101010}`
