@@ -22,6 +22,3 @@ Use `Ctrl` + `Shift` + `f` to find the file named 'uber-secret.txt'. Retrieve th
 ```bash
 cat files/adequate_books/more_books/.secret/deeper_secrets/deepest_secrets/uber-secret.txt
 ```
-
-Flag 
-`picoCTF{f1nd_15_f457_ab443fd1}`
