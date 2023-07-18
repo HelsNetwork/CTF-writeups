@@ -17,7 +17,3 @@ After downloading the two files, run the `cat level1.py` command to read the Pyt
 You can see if the `user_pw` is equal to the password given in the code, the flag is decrypted. 
 
 `password = 8713`
-
-
-Flag 
-`picoCTF{545h_r1ng1ng_1b2fd683}`
