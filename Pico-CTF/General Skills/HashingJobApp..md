@@ -41,8 +41,3 @@ print("MD5 Hash: " + md5_hashed_input)
 
 ```
 ![Screenshot from 2023-07-09 14-24-12](https://github.com/HelsNetwork/CTF-writeups/assets/87879515/12322f60-38ab-44e9-891d-4ab85b131639)
-
-
-
-Flag 
-`picoCTF{4ppl1c4710n_r3c31v3d_674c1de2}`
