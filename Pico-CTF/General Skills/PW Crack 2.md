@@ -19,7 +19,3 @@ After downloading the two files, run the `cat level2.py` command to read the Pyt
 If the `user_pw` is equal to the password given in the code, the flag is decrypted. The password is represented in hexadecimal format and needs to be converted to ASCII.
 
 `password = 4ec9`
-
-
-Flag 
-`picoCTF{tr45h_51ng1ng_9701e681}`
