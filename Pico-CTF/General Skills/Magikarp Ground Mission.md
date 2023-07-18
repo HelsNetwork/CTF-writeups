@@ -42,7 +42,3 @@ The `instructions-to-3of3.txt` file contains the instruction for the next step.
 Type `cd~`. You can find the last part of the flag in the `3of3.flag.txt`
 
 ![Screenshot from 2023-07-06 14-10-44](https://github.com/HelsNetwork/CTF-writeups/assets/87879515/f0413e4e-ad1e-4f24-906e-84a2237b27de)
-
-
-Flag 
-`picoCTF{xxsh_0ut_0f_\/\/4t3r_21cac893}`
