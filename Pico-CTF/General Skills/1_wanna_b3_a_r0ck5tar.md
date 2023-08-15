@@ -9,5 +9,5 @@
 
 
 ### Step 1
-interpreter
+
 Same as the [mus1c](https://github.com/HelsNetwork/CTF-writeups/blob/main/Pico-CTF/General%20Skills/mus1c.md) challenge. Download the provided file then copy and past the content into rockstar interpreter.
