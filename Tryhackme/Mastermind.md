@@ -22,7 +22,7 @@ If you don't see a virtual machine load then click the Show Split View button.
 
 ![image](https://github.com/HelsNetwork/CTF-writeups/assets/87879515/cf4a71a3-2f77-430f-8b1e-50f4b4e46855)
 
-<details open>
+<details close>
 <summary> <h1>[Infection 1]</h1></summary>
 <br>
 
@@ -86,7 +86,7 @@ Since we're focusing on the "download" action, it's likely that the victim used 
 </details>
 
 
-<details open>
+<details close>
 <summary> <h1>[Infection 2]</h1></summary>
 <br>
 
@@ -172,7 +172,7 @@ Now that we have our domain copy it here https://urlhaus.abuse.ch/browse.php?sea
 </details>
 
 
-<details open>
+<details close>
 <summary> <h1>[Infection 3]</h1></summary>
 <br>
 
