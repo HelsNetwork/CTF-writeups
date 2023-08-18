@@ -1,7 +1,7 @@
 # Benign
 
 
-**Link:** [https://tryhackme.com/room/itsybitsy](https://tryhackme.com/room/benign)
+**Link:** https://tryhackme.com/room/benign
 
 **Difficulty:** Medium
 
