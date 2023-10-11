@@ -13,7 +13,7 @@
 
 
 
-<details open >
+<details close >
 <summary> <h1> Windows 10 Disk Image</h1></summary>
 <be>
 
